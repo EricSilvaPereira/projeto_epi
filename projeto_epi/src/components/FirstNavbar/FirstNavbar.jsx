@@ -1,0 +1,19 @@
+import "./Style.css";
+const FirstNavbar = () => {
+  return (
+    <div>
+      <header>
+        <nav className="nav">
+          <div id="title">
+            <h1>Gerenciamento de EPI's</h1>
+          </div>
+          <div id="user">
+            <a href="user">IMG_USER</a>
+          </div>
+        </nav>
+      </header>
+    </div>
+  );
+};
+
+export default FirstNavbar;
