@@ -3,6 +3,7 @@ import "./MenuNavbar.css";
 
 const MenuNavbar = () => {
   const links = [
+    { to: "/overral", label: "Geral" },
     { to: "/equipments", label: "Equipamentos" },
     { to: "/employees", label: "Funcionários" },
     { to: "/deliverys", label: "Entregas" },
