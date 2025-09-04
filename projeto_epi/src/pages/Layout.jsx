@@ -1,4 +1,4 @@
-import FirstNavbar from "../components/FirstNavbar/TopNavbar";
+import FirstNavbar from "../components/Header/Header";
 
 const Layout = () => {
   return (
