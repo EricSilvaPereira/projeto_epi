@@ -1,4 +1,4 @@
-import "./Style.css";
+import "./TopNavbar.css";
 const FirstNavbar = () => {
   return (
     <div>
