@@ -6,6 +6,7 @@ const routes = () => {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Layout />}></Route>
+        <Route path="employees" element={<Layout />}></Route>
       </Routes>
     </BrowserRouter>
   );
